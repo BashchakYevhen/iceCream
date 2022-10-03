@@ -6,7 +6,7 @@
   "homepage": "https://BashchakYevhen.github.io/iceCream/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /projectPhoenixIceCream/"
+    "build": "parcel build src/*.html --public-url /iceCream/"
   },
   "repository": {
     "type": "git",
